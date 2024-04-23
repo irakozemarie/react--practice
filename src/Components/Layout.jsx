@@ -12,7 +12,7 @@ const Layout = () => {
           <Slider />
         </div>
 
-        <div className="bg-yellow-300 w-1/2 border-solid border-2 border-indigo-600 rounded-md ">
+        <div className="bg-yellow-300 w-full border-solid border-2 border-indigo-600 rounded-md ">
           <Outlet />
         </div>
       </div>
